@@ -1,5 +1,7 @@
 # Monopoly
 Monopoly simulation engine <br> <br>
+## Class Diag
+![Class Diag](/assets/UML_Class_Diag.jpeg)
 ## Use Case Diag
 ![Use Case Diag](/assets/UMLUseCaseDiag.jpeg)
 ## Description of Classes & Methods
