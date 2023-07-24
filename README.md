@@ -1,6 +1,7 @@
 # Monopoly
 Monopoly simulation engine <br> <br>
-
+## Use Case Diag
+![](/assets/UML Use Case Diagram (1).jpeg)
 ## Description of Classes & Methods
 ### Square Class : 
 - represents all the squares/tiles of
